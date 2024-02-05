@@ -31,7 +31,7 @@
     (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 88014df7-ef90-4fc5-a094-57fbddb5144f))
   (fp_rect (start -2.8 -1.6) (end 2.8 1.6)
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 206b725c-e7d8-41f9-a84b-d38a1299eda0))
-  (pad "" np_thru_hole circle (at 0 -0.9 90) (size 0.75 0.75) (drill 0.75) (layers "F&B.Cu" "*.Mask") (tstamp bb9051f4-422c-4991-97ff-a4f3b5b74ebc))
+  (pad "" np_thru_hole circle (at 0 -0.8 90) (size 0.75 0.75) (drill 0.75) (layers "F&B.Cu" "*.Mask") (tstamp bb9051f4-422c-4991-97ff-a4f3b5b74ebc))
   (pad "" np_thru_hole circle (at 0 0.8 90) (size 0.75 0.75) (drill 0.75) (layers "F&B.Cu" "*.Mask") (tstamp f8286191-751d-42f8-b63c-9a3f73fded6f))
   (pad "1" smd rect (at -2.2 0 90) (size 1.6 1.05) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp faf2d252-0d23-4dcd-8834-3fc85f5e249a))
